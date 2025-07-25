@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1752838438 source:c:\users\hp\desktop\language c\myfunction\main.c
+	<stdio.h>
+	"myFunction.h"
+
+1752838438 c:\users\hp\desktop\language c\myfunction\myfunction.h
+	<stdio.h>
+
+1752838438 source:c:\users\hp\desktop\language c\myfunction\myfunction.c
+	"myFunction.h"
+
